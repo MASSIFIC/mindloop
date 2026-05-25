@@ -1,0 +1,6 @@
+{
+  "name": "Mindloop",
+  "description": "A high-end, dark monochrome newsletter platform and exclusive wearable tech drop showcase.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
