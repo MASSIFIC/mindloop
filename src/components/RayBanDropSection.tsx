@@ -40,7 +40,7 @@ export default function RayBanDropSection({ imageLeft, imageFront, onOrderPlaced
 
   // WhatsApp Support Settings
   const [whatsappNumber, setWhatsappNumber] = useState(() => {
-    return localStorage.getItem('mindloop_whatsapp_number') || '+212600000000';
+    return localStorage.getItem('mindloop_whatsapp_number') || '+212716892921';
   });
 
   const handleSaveWhatsappNumber = (val: string) => {
